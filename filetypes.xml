@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".analysis_options" type="PLAIN_TEXT" />
       <mapping ext="gpx" type="XML" />
       <mapping ext="xcscheme" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
