@@ -42,9 +42,17 @@
           <option name="url" value="https://github.com/sergdort/CleanArchitectureRxSwift.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tsnAnh/Lelegram" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/1plus1equal1/mvc_android_app" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/FlutterProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
